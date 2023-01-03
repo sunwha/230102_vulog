@@ -24,6 +24,7 @@
     </div>
   <main class="container">
     <router-view :blogData="blogData"></router-view>
+    ddddd
   </main>
   </div>
 </template>
