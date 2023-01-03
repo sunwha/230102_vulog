@@ -3,7 +3,7 @@
     <header class="blog-header lh-1 py-3">
       <div class="row flex-nowrap justify-content-between align-items-center">
         <div class="col-4 pt-1">
-          <!-- <a class="link-secondary" href="#">Subscribe</a> -->
+          <!-- <a class="link-secondary" href="#">Sub</a> -->
         </div>
         <div class="col-4 text-center">
           <router-link class="blog-header-logo text-dark" to="/">Large</router-link>
